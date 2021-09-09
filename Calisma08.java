@@ -9,7 +9,7 @@ public class Calisma08 {
 	public static void main(String[] args) {
 		// icinde a harfi olanlari sil
 		
-		List<String> liste = new ArrayList<>(Arrays.asList("Ali","veli","ayse","ahmet","omer")); 
+		List<String> liste = new ArrayList<>(Arrays.asList("Ali","Veli","Ayse","fatma","Omer","ahmet","ayhan")); 
 		//yeni bir liste olusturdum ve remove() kullanmadim cunku removu yaparsam dongu basa dondugunde elemanlarin indexi degisir. 
 		List<String> yeniliste = new ArrayList<>();
 		
